@@ -1,0 +1,2 @@
+# douban_spider
+python框架的scrapy的入门学习项目，从豆瓣电影top250中，爬取相应信息存储在test.csv文件中
