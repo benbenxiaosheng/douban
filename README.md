@@ -9,4 +9,5 @@ python框架的scrapy的入门学习项目，从豆瓣电影top250中，爬取�
 
 # 结果
 在root目录(douban_spider文件夹里)出现了test.csv文件；用excel打开csv文件，显示抓取的信息内容
-
+![image]
+(https://github.com/benbenxiaosheng/douban_spider/blob/master/QQ%E5%9B%BE%E7%89%8720200708221323.png)
